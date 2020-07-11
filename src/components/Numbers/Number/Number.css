@@ -1,0 +1,23 @@
+.Input{
+    margin-bottom: 8px;
+}
+.Button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.Button:disabled{
+    cursor: not-allowed;
+}
+
+.Div {
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+    margin-left:29%;
+    margin-right: 50%;
+}

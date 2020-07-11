@@ -1,0 +1,31 @@
+.Hot {
+    padding: 9px;
+    background-color: #f81302;
+    color: white;
+    margin: 0 auto;
+    width: 15%;
+}
+
+.Warm {
+    padding: 9px;
+    background-color: #e2d55e;
+    color: white;
+    margin: 0 auto;
+    width: 15%;
+}
+
+.Cold {
+    padding: 9px;
+    background-color: #5e9ce2;
+    color: white;
+    margin: 0 auto;
+    width: 15%;
+}
+
+.Correct {
+    padding: 9px;
+    background-color: #3fc267;
+    color: white;
+    margin: 0 auto;
+    width: 15%;
+}
